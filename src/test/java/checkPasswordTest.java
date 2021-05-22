@@ -34,7 +34,6 @@ class isValidTest {
         assertFalse(PasswordCheck.isValid("QWEASDzxc##"));
     }
 
-
     @Test
     @DisplayName("Has password no special characters")
     void testPasswordFoSpecialChars() {
