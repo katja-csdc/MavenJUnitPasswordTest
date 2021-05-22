@@ -28,6 +28,7 @@ class isValidTest {
         assertFalse(PasswordCheck.isValid("qweasdzxc12#3"));
     }
 
+
     @Test
     @DisplayName("Has password no numbers")
     void testPasswordForNumbers() {
