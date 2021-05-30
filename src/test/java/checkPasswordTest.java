@@ -3,7 +3,7 @@ import org.junit.jupiter.api.DisplayName;
 import static org.junit.jupiter.api.Assertions.*;
 
 class isValidTest {
-
+//comment
     @Test
     @DisplayName("Has password longer length")
     void testPasswordLengthLonger() {
