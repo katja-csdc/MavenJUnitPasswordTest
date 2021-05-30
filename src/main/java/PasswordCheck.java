@@ -1,6 +1,6 @@
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
-
+//comment//
 public class PasswordCheck {
     public static boolean isValid(String password) {
         if (password.length() < 8 || password.length() > 25)
